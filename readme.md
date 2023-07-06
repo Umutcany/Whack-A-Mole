@@ -1,1 +1,1 @@
-![Resim](images/)
+![Resim](images/image.png)
